@@ -8,7 +8,9 @@ body {
 img {width: 150px;}
 
 .robot {
-
+  /* transform: translateX(100%); */
+  /* transform: translate(100px, 200px) scale(2) rotate(45deg); */
+  /* transform: scale(2) rotate(45deg) translate(100px, 200px); */
 }
 
 
